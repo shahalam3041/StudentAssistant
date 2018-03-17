@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity
         setSupportActionBar(toolbar);
 
         /// adding comment just to check github commit that will be reverted........
+        /// added another comment
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
